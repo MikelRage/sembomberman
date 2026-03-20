@@ -10,6 +10,6 @@ Základní seznam funkcionalit
 * Nepřítel řízený AI (Náhodný pohyb + kolizní systém + reakce na explozi)
 * Úrovně (Rozdílné mapy + rozdílný počet nepřátel + obtížnost nepřátel)
 * Ukládání dat do souboru (High score)
-* Hlavní menu
+* Hlavní menu (Start + load + end)
 * Animace pohybu hráče a nepřátel
 * Herní stav (Výhra/prohra + restart úrovně)
