@@ -1,5 +1,6 @@
 # sembomberman
-BCSH1 - Semestrální práce - Bomberman
+BCSH1 - Semestrální práce - Bomberman (Godot, C#)
+
 Základní seznam funkcionalit
 * 2D herní pole reprezentované mřížkou (Grid mapa)
 * Pevné a zničitelné bloky
